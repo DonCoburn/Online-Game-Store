@@ -1,0 +1,13 @@
+00 Michael M       AA 001000.00
+01 Tim             BS 400000.00
+01 Joe             SS 342454.00
+01 Jennie          FS 352352.00
+02 Jennie          FS 352352.00
+01 Bob             FS 333333.00
+10 Michael M       AA 001000.00
+00 Joe             SS 342454.00
+03 Call of Duty              Joe             25.00 110.00
+10 Joe             SS 342454.00
+00 Tim             BS 400000.00
+04 Call of Duty              Joe             Tim
+10 Tim             BS 400000.00
